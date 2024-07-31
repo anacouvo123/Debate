@@ -6,15 +6,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: "Dê que forma a adoção de energia eólica pode impactara gestão de resíduos e a conservação de água em uma comunidade?",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+                texto: "A comunidade adota energia eólica como principal fonte de energia.",
+                afirmacao: "Reduz a produção de resíduos tóxicos ao diminuir a depêndencia de combustiveis fósseis. "
             },
             {
-                texto: "Isso é maravilhoso!",
-                afirmacao: "Quis saber como usar IA no seu dia a dia."
+                texto: "A comunidade continua a utilizar fontes tradicionais de energia, como carvão e gás natural.",
+                afirmacao: "Infelizmente se a comunidade onsome grandes quantidades de água, exacerbando a escassez hídrica, não haverá conservação de água."
             }
         ]
     },
